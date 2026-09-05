@@ -27,7 +27,7 @@ NAME = "100 фраз для первого сообщения"
 PRODUCT
 _
 DESCRIPTION = (
-"Готовые фразы для Tinder, VK, Instagram,
+"Готовые фразы для Tinder, VK, Instagram,"
 "
 "знакомства на улице и после лайка.
 "
